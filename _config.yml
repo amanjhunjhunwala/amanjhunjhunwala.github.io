@@ -73,7 +73,7 @@ social:
 analytics:
   provider               :  "google"
   google:
-    tracking_id          :"UA-106398067-1"
+    tracking_id          : "UA-106398067-1"
 
 
 # Site Author
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/amanjhunjhunwala/"
+  linkedin         : "amanjhunjhunwala"
   orcid            :
   pinterest        :
   soundcloud       :
