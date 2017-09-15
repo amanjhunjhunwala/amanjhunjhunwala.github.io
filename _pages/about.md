@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am still very much in the process of building this web page ! Till then check out the links on the sidebar ! I always love to hear from people !
+As of mid-September 2017, I am retouching my personal website !
+I am still very much in the process of building this web page. Till then check out the links on the sidebar ! I always love to hear from people !
