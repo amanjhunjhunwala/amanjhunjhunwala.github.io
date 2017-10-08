@@ -1,7 +1,7 @@
 ---
 title: 'A Tell-a-Tale Heart'
 date: 2017-01-13
-permalink: /posts/tell-a-tale-heart
+permalink: /posts/2017/01/tell-a-tale-heart
 tags:
   - personal
   - past
@@ -23,3 +23,5 @@ Failure gave me an inner security that I had never attained by passing examinati
 
 So given a Time Turner, I would tell my 18-year-old self that personal happiness lies in knowing that life is not a check-list of acquisition or achievement. Your qualifications, your CV are not your life : Life is difficult, and complicated, and beyond anyone’s total control, and only you can trust yourself to survive its vicissitudes.
 I am done for now — for this note and my undergraduate degree. Hope to meet you soon in a better place and better time !
+
+------
