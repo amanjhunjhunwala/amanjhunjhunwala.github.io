@@ -16,7 +16,7 @@
 
   @include breakpoint($large) {
     @include span(2 of 12);
-    opacity: 0.75;
+    opacity: 0.90;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
 
@@ -117,8 +117,8 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-family: ;
+  font-size: 'Pompiere', cursive;
 }
 
 .author__bio {
