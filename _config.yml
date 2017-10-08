@@ -212,10 +212,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _works
   - scope:
       path: ""
-      type: publications
+      type: works
     values:
       layout: single
       author_profile: true
