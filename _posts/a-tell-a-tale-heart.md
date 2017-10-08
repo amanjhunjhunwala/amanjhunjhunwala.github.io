@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 1'
+title: 'A Tell-a-Tale Heart'
 date: 2017-01-13
 permalink: /posts/tell-a-tale-heart
 tags:
