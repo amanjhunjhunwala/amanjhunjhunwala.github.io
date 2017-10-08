@@ -19,9 +19,9 @@ breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
-  provider               : "staticman"
+  provider               : "disqus"
   disqus:
-    shortname            :
+    shortname            :"aman-jhunjhunwala"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -29,14 +29,14 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  allowedFields          : #['name', 'email', 'url', 'message']
+  branch                 : #"gh-pages" # "master", "gh-pages"
+  commitMessage          : #"New comment."
+  filename               : #comment-{@timestamp}
+  format                 : #"yml"
+  moderation             : #true
+  path                   : #"_data/comments/{options.slug}"
+  requiredFields         : #['name', 'email', 'message']
   transforms:
     email                : "md5"
   generatedFields:
