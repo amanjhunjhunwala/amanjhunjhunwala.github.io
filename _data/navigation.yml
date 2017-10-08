@@ -2,10 +2,10 @@
   main:
   
    - title: "CV"
-     url: /cv/
+     url: https://bit.do/amanjjw
       
-   - title: "Publications & Projects"
-     url: /publications/
+   - title: "Research"
+     url: /work/
  
    - title: "Talks & Teaching"
      url: /talks/
