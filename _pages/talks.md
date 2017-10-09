@@ -4,8 +4,11 @@ title: "Talks, Teaching and Presentations"
 permalink: /talks/
 author_profile: true
 ---
- 
-* Teaching Assistant, CS 135 : Functional Programming in Racket, University of Waterloo, Fall 2017
+* Talk on "	Curiosity-driven Exploration by Self-supervised Prediction"
+  *  University of Waterloo, November 21, 2017
+
+* Teaching Assistant, CS 135 : Functional Programming in Racket
+  *  University of Waterloo, Fall 2017
 
 * Talk on "3D Landmark Segmentation and Deep Learning for RGBD Realtime Mobile Segmentation"
   *  ETH Zurich, 11th August, 2017
