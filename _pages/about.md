@@ -17,7 +17,7 @@ I am a currently a Masters Student in [Computer Science](https://cs.uwaterloo.ca
 Previously, I have worked at [ETH Zurich](https://www.ethz.ch/en.html)'s [Autonomous Systems Lab](http://www.asl.ethz.ch/) under [Prof. Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981), Marius Fehr, Thomas Schneider and Marcin Dymczyk on [Google X's Project Tango](https://get.google.com/tango/).
 
 :-------------------------:|:-------------------------:
-![Tango_Logo](/files/tango-logo.svg) | ![ETH_ASL_LOGO](/files/eth_asl.jpg)
+![Tango_Logo](/files/tango-logo.svg){:height="30%" width="50%"} | ![ETH_ASL_LOGO](/files/eth_asl.jpg){:height="30%" width="50%"}
 
 
 For the summer of 2016, I had the great fortune of working at the Center for Advanced Computing Research (now [Center for Data  Driven Discovery](http://cd3.caltech.edu/)) at [Caltech](http://www.caltech.edu/) under the mentorship of ex-Director and current Principal Scientist, [Dr. Mark Stalzer](https://www.linkedin.com/in/mark-stalzer-97254a/).
