@@ -36,3 +36,6 @@ author_profile: true
   
 * Conducted Gaming in Python Workshop for 100 students
   *  BIT Mesra, India, January 2016
+  
+* Talk on Intelligent Client Side UI Enchancement Frameworks
+  *  Springer Conference on Intelligent Computation, India, December 2015
