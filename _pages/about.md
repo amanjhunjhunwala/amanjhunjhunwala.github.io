@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi Reader,
-
 Thank you for taking the time out and visiting my Homepage ! 
 
 I am a currently a Masters Student in [Computer Science](https://cs.uwaterloo.ca/) at [Autonomoose](http://www.autonomoose.net/), a research collaboration under the [University of Waterloo](https://uwaterloo.ca/), Canada. I work on Behaviour Planning for Autonomous Driving, specializing in Reinforcment Learning, Deep Learning and Computer Vision.
