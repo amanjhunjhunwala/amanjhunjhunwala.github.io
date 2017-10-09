@@ -23,3 +23,6 @@ During the summer of 2015, I was a [Google Summer of Code](https://developers.go
 
 
 I completed my undergraduate in Computer Science and Engineering from [Birla Institute of Technology](https://bitmesra.ac.in/),India where I would tentatively be recieving an University Gold Medal for ranking 1st in the department.
+
+### Honors
+
