@@ -13,7 +13,8 @@ author_profile: true
 * Talk on "Use of Bi-directional LSTMs for Underdetermined Blind Source Speaker Seperation"
   *  BIT Mesra, 3rd May, 2017
   
-* Co-Managed University wide Hackathon and On-site Coding Contest, BIT Mesra, March 2017
+* Co-Managed University wide Hackathon and On-site Competitive Coding Contest
+  *  BIT Mesra, March 2017
 
 * Talk on "Data-Driven Entrepreneurship"
   *  BIT Mesra, April, 2017
@@ -24,10 +25,13 @@ author_profile: true
 * Conducted Basics to Advanced Python Workshop (including Gaming) for 200+ students
   *  BIT Mesra, India, August 2017
   
+* Conducted Basic Web Development Workshop for 200+ students
+  *  BIT Mesra, India, October 2017
+  
 * Talk on "Evolutionary Theory Engine for derivation of Physical Laws"
   *  Caltech, 21st July, 2016
   
-* Talk on Google Summer of Code program and the formalities involved in ti
+* Talk on Google Summer of Code program
   *  BIT Mesra, India, February 2016
   
 * Conducted Gaming in Python Workshop for 100 students
