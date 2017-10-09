@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-As of mid-September 2017, I am retouching my personal website !
-I am still very much in the process of building this web page. Till then check out the links on the sidebar ! I always love to hear from people !
-
 Hi Reader,
+
+Thank you for taking the time out and visiting my Homepage ! 
 
 I am a currently a Masters Student in [Computer Science](https://cs.uwaterloo.ca/) at [Autonomoose](http://www.autonomoose.net/), a research collaboration under the [University of Waterloo](https://uwaterloo.ca/), Canada. I work on Behaviour Planning for Autonomous Driving, specializing in Reinforcment Learning, Deep Learning and Computer Vision.
 
@@ -21,7 +20,10 @@ Previously, I have worked at [ETH Zurich](https://www.ethz.ch/en.html)'s [Autono
 ![Tango_Logo](/files/tango-logo.svg) | ![ETH_ASL_LOGO](/files/eth_asl.jpg)
 
 
-For the summer of 2016, I had the great fortune of working at the Center for Advanced Computing Research (now Center for Data  Driven Discovery) at Caltech under the mentorship of Principal Scientist, Dr. Mark Stalzer.
+For the summer of 2016, I had the great fortune of working at the Center for Advanced Computing Research (now [Center for Data  Driven Discovery](http://cd3.caltech.edu/)) at [Caltech](http://www.caltech.edu/) under the mentorship of ex-Director and current Principal Scientist, [Dr. Mark Stalzer](https://www.linkedin.com/in/mark-stalzer-97254a/).
+
+:-------------------------:|:-------------------------:
+![Caltech_Logo](/files/caltech_logo.jpg) | ![CD3_LOGO](/files/cdcube.348x120.png)
 
 During the summer of 2015, I was a Google Summer of Code participant and worked with Harvard University's Professor Tom Aldcroft, Dr. Jean Connelly and Dr. Thomas Robitaille and designed AstroPython, currently the world's most popular website for using Python in Astronomy. 
 
