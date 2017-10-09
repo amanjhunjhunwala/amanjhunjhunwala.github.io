@@ -24,4 +24,6 @@ During the summer of 2015, I was a [Google Summer of Code](https://developers.go
 
 I completed my undergraduate in Computer Science and Engineering from [Birla Institute of Technology](https://bitmesra.ac.in/),India where I would tentatively be recieving an University Gold Medal for ranking 1st in the department. During my stay as an undergraduate, I was grateful that I was awarded the MITACS Globalink Fellowship (the highest undergraduate research honor awarded by the Canadian government) as well as the International SURF Fellowship by CalTech. 
 
-Apart from research I also love software and web development and have won multiple university level hackathons and was one of Microsoft's Build The Shield India finalists for 2016.
+Apart from research, I love software and web development! I have won multiple university level hackathons and was one of Microsoft's Build The Shield India finalists for 2016.
+
+I also won a Logo  Quiz back in the day and am still waiting for my prize. Please email me directly if you have any details regarding that.I plan to start writing reviews of TV series and films soon and might also share my favorite videos and articles, so stay tuned !
