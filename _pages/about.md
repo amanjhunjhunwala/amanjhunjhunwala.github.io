@@ -22,7 +22,6 @@ For the summer of 2016, I had the great fortune of working at the Center for Adv
 During the summer of 2015, I was a [Google Summer of Code](https://developers.google.com/open-source/gsoc/) participant and worked with Harvard University's Professor Tom Aldcroft, Dr. Jean Connelly and Dr. Thomas Robitaille and designed [AstroPython](http://astropython.org), currently the world's most popular website for using Python in Astronomy. 
 
 
-I completed my undergraduate in Computer Science and Engineering from [Birla Institute of Technology](https://bitmesra.ac.in/),India where I would tentatively be recieving an University Gold Medal for ranking 1st in the department.
+I completed my undergraduate in Computer Science and Engineering from [Birla Institute of Technology](https://bitmesra.ac.in/),India where I would tentatively be recieving an University Gold Medal for ranking 1st in the department. During my stay as an undergraduate, I was grateful that I was awarded the MITACS Globalink Fellowship (the highest undergraduate research honor awarded by the Canadian government) as well as the International SURF Fellowship by CalTech. 
 
-### Honors
-
+Apart from research I also love software and web development and have won multiple university level hackathons and was one of Microsoft's Build The Shield India finalists for 2016.
