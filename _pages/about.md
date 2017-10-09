@@ -19,7 +19,7 @@ Previously, I have worked at [ETH Zurich](https://www.ethz.ch/en.html)'s [Autono
 For the summer of 2016, I had the great fortune of working at the Center for Advanced Computing Research (now [Center for Data  Driven Discovery](http://cd3.caltech.edu/)) at [Caltech](http://www.caltech.edu/) under the mentorship of ex-Director and current Principal Scientist, [Dr. Mark Stalzer](https://www.linkedin.com/in/mark-stalzer-97254a/).
 
 
-During the summer of 2015, I was a [Google Summer of Code](https://developers.google.com/open-source/gsoc/) participant and worked with Harvard University's Professor Tom Aldcroft, Dr. Jean Connelly and Dr. Thomas Robitaille and designed [AstroPython]http://astropython.org), currently the world's most popular website for using Python in Astronomy. 
+During the summer of 2015, I was a [Google Summer of Code](https://developers.google.com/open-source/gsoc/) participant and worked with Harvard University's Professor Tom Aldcroft, Dr. Jean Connelly and Dr. Thomas Robitaille and designed [AstroPython](http://astropython.org), currently the world's most popular website for using Python in Astronomy. 
 
 
 I completed my undergraduate in Computer Science and Engineering from [Birla Institute of Technology](https://bitmesra.ac.in/),India where I would tentatively be recieving an University Gold Medal for ranking 1st in the department.
