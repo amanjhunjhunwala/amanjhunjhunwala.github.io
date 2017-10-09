@@ -27,7 +27,7 @@ For the summer of 2016, I had the great fortune of working at the Center for Adv
 
 During the summer of 2015, I was a [Google Summer of Code](https://developers.google.com/open-source/gsoc/) participant and worked with Harvard University's Professor Tom Aldcroft, Dr. Jean Connelly and Dr. Thomas Robitaille and designed (AstroPython)[http://astropython.org], currently the world's most popular website for using Python in Astronomy. 
 
-:-------------------------:|:-------------------------:
-![GSoC_Logo](/files/220px-GSoC.png) | ![Harvard_LOGO](/files/AAEAAQAAAAAAAAnyAAAAJDZjYjc4YWJlLTg5ZGItNDExMi1iZTdkLTkxOGRiMzRhN2JmMA.png)
+:-------------------------:|:-------------------------:|:------------------------|
+![GSoC_Logo](/files/220px-GSoC.png) | ![Harvard_LOGO](/files/AAEAAQAAAAAAAAnyAAAAJDZjYjc4YWJlLTg5ZGItNDExMi1iZTdkLTkxOGRiMzRhN2JmMA.png) | ![PSF_LOGO](/files/PSF-Logo.png)
 
 I completed my undergraduate in Computer Science and Engineering from Birla Institute of Technology,India where I would tentatively be recieving an University Gold Medal for ranking 1st in the department.
