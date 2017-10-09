@@ -18,4 +18,4 @@ I am a currently a Masters Student in [Computer Science](https://cs.uwaterloo.ca
 Previously, I have worked at [ETH Zurich](https://www.ethz.ch/en.html)'s [Autonomous Systems Lab](http://www.asl.ethz.ch/) under [Prof. Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981), Dr. Marius Fehr, Dr. Thomas Schneider and Marcin Dymczyk on [Google X's Project Tango](https://get.google.com/tango/).
 
 :-------------------------:|:-------------------------:
-![Tango_Logo](/files/tango-logo.svg){:height="20%" width="30%"} | ![ETH_ASL_LOGO](/files/eth_asl.jpg){:height="20%" width="60%"}
+![Tango_Logo](/files/tango-logo.svg) | ![ETH_ASL_LOGO](/files/eth_asl.jpg)
