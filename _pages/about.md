@@ -12,7 +12,7 @@ Thank you for taking the time out and visiting my Homepage !
 
 I am a currently a Masters Student in [Computer Science](https://cs.uwaterloo.ca/) at [Autonomoose](http://www.autonomoose.net/), a research collaboration under the [University of Waterloo](https://uwaterloo.ca/), Canada. I work on Behaviour Planning for Autonomous Driving, specializing in Reinforcment Learning, Deep Learning and Computer Vision.
 
-Previously, I have worked at [ETH Zurich](https://www.ethz.ch/en.html)'s [Autonomous Systems Lab](http://www.asl.ethz.ch/) under [Prof. Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981), Marius Fehr, Thomas Schneider and Marcin Dymczyk on [Google X's Project Tango](https://get.google.com/tango/).
+Previously, I have worked on Deep Learning for 3D Vision at [ETH Zurich](https://www.ethz.ch/en.html)'s [Autonomous Systems Lab](http://www.asl.ethz.ch/) under [Prof. Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981), Marius Fehr, Thomas Schneider and Marcin Dymczyk on [Google X's Project Tango](https://get.google.com/tango/).
 
 For the summer of 2016, I had the great fortune of working at the Center for Advanced Computing Research (now [Center for Data  Driven Discovery](http://cd3.caltech.edu/)) at [Caltech](http://www.caltech.edu/) under the mentorship of ex-Director and current Principal Scientist, [Dr. Mark Stalzer](https://www.linkedin.com/in/mark-stalzer-97254a/).
 
