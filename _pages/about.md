@@ -29,4 +29,4 @@ I also won a Logo  Quiz back in the day and am still waiting for my prize. Pleas
 
 ## Updates
 
-(19 Oct 17) I built my own Networked filesystem ! Have a look : [WatFS](http://bit.do/WatFS) 
+(19 Oct 17) I built my own complete Networked filesystem ! Have a look : [WatFS](http://bit.do/WatFS) 
