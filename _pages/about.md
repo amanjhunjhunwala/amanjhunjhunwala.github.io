@@ -24,8 +24,7 @@ I completed my undergraduate in Computer Science and Engineering from [Birla Ins
 
 Apart from research, I love software and web development! I have won multiple university level hackathons and was one of Microsoft's Build The Shield India finalists for 2016.
 
-I also won a Logo  Quiz back in the day and am still waiting for my prize. Please email me directly if you have any details regarding that. I plan to start writing reviews of TV series and films soon and might also share my favorite videos and articles, so stay tuned !
-
+I also won a Logo  Quiz back in the day and am still waiting for my prize. Please email me directly if you have any details regarding that.
 
 ## Updates
 
