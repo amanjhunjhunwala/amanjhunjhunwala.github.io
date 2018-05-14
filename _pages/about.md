@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for taking the time out and visiting my Homepage ! 
+Hi, thank you for taking the time out and visiting my homepage !
 
-I am a currently a Masters Student in [Computer Science](https://cs.uwaterloo.ca/) at [Autonomoose](http://www.autonomoose.net/), a research collaboration under the [University of Waterloo](https://uwaterloo.ca/), Canada. I work on Behaviour Planning for Autonomous Driving, specializing in Reinforcment Learning, Deep Learning and Computer Vision.
+I am a currently on co-op as a Deep Learning Intern (DLI) at Nvidia Robotics Research (Santa Clara, HQ)  from May - December 2018.  
+
+From September 2017 - April 2019, I am enrolled as a Masters Student in [Computer Science](https://cs.uwaterloo.ca/) at [Autonomoose](http://www.autonomoose.net/), a research collaboration under the [University of Waterloo](https://uwaterloo.ca/), Canada. I work on Behaviour Planning for Autonomous Driving, specializing in Reinforcment Learning, Deep Learning and Computer Vision.
 
 Previously, I have worked on Deep Learning for 3D Vision at [ETH Zurich](https://www.ethz.ch/en.html)'s [Autonomous Systems Lab](http://www.asl.ethz.ch/) under [Prof. Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981), Marius Fehr, Thomas Schneider and Marcin Dymczyk on [Google X's Project Tango](https://get.google.com/tango/).
 
