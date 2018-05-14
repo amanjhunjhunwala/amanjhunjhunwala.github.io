@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, thank you for taking the time out and visiting my homepage !
+Hi! Thank you for taking the time out and visiting my homepage !
 
 I am a currently on co-op as a Deep Learning Intern (DLI) at Nvidia Robotics Research (Santa Clara, HQ)  from May - December 2018.  
 
@@ -26,7 +26,7 @@ I completed my undergraduate in Computer Science and Engineering from [Birla Ins
 
 Apart from research, I love software and web development! I have won multiple university level hackathons and was one of Microsoft's Build The Shield India finalists for 2016.
 
-I also won a Logo  Quiz back in the day and am still waiting for my prize. Please email me directly if you have any details regarding that.
+I also won a Logo  Quiz back in the day and am still waiting for my prize. Please email me directly if you have any details regarding the same.
 
 ## Updates
 (13 Nov 17) I am presenting a talk on Modular Multitask Reinforcement Learning at UWaterloo. Have a [look](https://wiki.math.uwaterloo.ca/statwiki/index.php?title=Modular_Multitask_Reinforcement_Learning_with_Policy_Sketches)
