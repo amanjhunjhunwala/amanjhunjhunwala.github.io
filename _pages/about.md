@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! Thank you for taking the time out and visiting my homepage !
 
-I am a currently on co-op as a Deep Learning Intern (DLI) at Nvidia Robotics Research (Santa Clara, HQ)  from May - December 2018.  
+I am currently on co-op from my Masters programme as a Deep Learning Intern (DLI) at Nvidia Robotics Research (Santa Clara, HQ)  from May - December 2018.  
 
 From September 2017 - April 2019, I am enrolled as a Masters Student in [Computer Science](https://cs.uwaterloo.ca/) at [Autonomoose](http://www.autonomoose.net/), a research collaboration under the [University of Waterloo](https://uwaterloo.ca/), Canada. I work on Behaviour Planning for Autonomous Driving, specializing in Reinforcment Learning, Deep Learning and Computer Vision.
 
