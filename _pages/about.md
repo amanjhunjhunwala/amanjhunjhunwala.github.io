@@ -29,6 +29,8 @@ Apart from research, I love software and web development! I have won multiple un
 I also won a Logo  Quiz back in the day and am still waiting for my prize. Please email me directly if you have any details regarding the same.
 
 ## Updates
+(01 Dec 17) Deep dive into why do large Distributed Storage Systems fail in the Cloud/DataCenter? Have a [look](http://bit.do/amanStorage)
+
 (13 Nov 17) I am presenting a talk on Modular Multitask Reinforcement Learning at UWaterloo. Have a [look](https://wiki.math.uwaterloo.ca/statwiki/index.php?title=Modular_Multitask_Reinforcement_Learning_with_Policy_Sketches)
 
 
