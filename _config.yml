@@ -15,7 +15,7 @@ url                      : https://amanjhunjhunwala.github.io # the base hostnam
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amanjhunjhunwala.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 comments:
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "x_calibre13"
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Aman Jhunjhunwala"
   avatar           : "profile.jpg"
-  bio              : "Deep Learning Intern @ Nvidia Robotics Research. UWaterloo Graduate Researcher in AI with prior research experience at Google X Tango, CalTech, Harvard and ETH !"
+  bio              : "Robotics Research & Development"
   location         : "Canada and the world !"
   employer         :
   googlescholar    :
@@ -104,7 +104,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "x_calibre13"
   vine             :
   weibo            :
   xing             :
@@ -203,24 +203,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _works
-  - scope:
-      path: ""
-      type: works
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -230,14 +212,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
